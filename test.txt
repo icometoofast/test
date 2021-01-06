@@ -1,0 +1,4 @@
+cal2有问题
+ArithmeticException
+/ by zero
+测试结束
